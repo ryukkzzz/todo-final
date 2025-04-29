@@ -2,7 +2,7 @@
 import Model from './model.js';
 import View from './view.js';
 
-// Espero a que todo el documento HTML esté completamente cargado
+// Espero a que todo el documento HTML esté completamente cargadoo
 document.addEventListener('DOMContentLoaded', () => {
   // Creo una instancia del modelo, donde se va a manejar la lógica de datos
   const model = new Model();
